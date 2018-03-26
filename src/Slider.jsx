@@ -1,6 +1,8 @@
 /* globals document */
 /* eslint react/no-array-index-key: 1 */
 
+import 'focus-visible/dist/focus-visible';
+
 import React from 'react';
 import PropTypes from 'prop-types';
 

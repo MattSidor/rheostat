@@ -60,6 +60,7 @@
     "react": ">=0.14"
   },
   "dependencies": {
+    "focus-visible": "^4.1.1",
     "object.assign": "^4.1.0",
     "prop-types": "^15.6.0"
   },
